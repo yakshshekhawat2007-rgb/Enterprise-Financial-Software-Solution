@@ -62,7 +62,6 @@ by enterprise-grade financial applications.
 - SQLAlchemy ORM
 
 ### Deployment
-- Frontend → Vercel
 - Backend → Render
 
 ---
