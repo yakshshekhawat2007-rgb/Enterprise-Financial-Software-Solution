@@ -14,6 +14,13 @@ db.init_app(app)
 bcrypt = Bcrypt(app)
 jwt = JWTManager(app)
 CORS(app)
+@app.route('/')
+def home():
+    return {
+        "status": "API is running",
+        "message": "Enterprise Financial Software Solution Backend",
+        "endpoints": ["/register", "/login", "/account", "/transfer"]
+    }
 
 from routes.auth import auth_bp
 from routes.accounts import accounts_bp
