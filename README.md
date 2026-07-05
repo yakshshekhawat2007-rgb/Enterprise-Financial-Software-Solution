@@ -31,13 +31,18 @@
 
 
 
+![Netlify](https://img.shields.io/badge/Netlify-Live-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
+
+
+
 ![Render](https://img.shields.io/badge/Render-Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 
 
 
 <br/>
 
-🔗 *[Live Backend API](https://enterprise-financial-software-solution.onrender.com)* &nbsp;|&nbsp;
+🌐 *[View Live App](https://enterprise-financial-software.netlify.app)* &nbsp;|&nbsp;
 📂 **[GitHub Repository](https://github.com/yakshshekhawat2007-rgb/Enterprise-Financial-Software-Solution)**
 
 <br/>
@@ -57,7 +62,7 @@ This project demonstrates:
 - 🏗️ Full-stack architecture and REST API design
 - 🔐 Secure authentication with JWT and password hashing
 - 💾 Relational database modeling with SQLAlchemy ORM
-- 🚀 Live cloud deployment on Render
+- 🚀 End-to-end cloud deployment (Render + Netlify)
 - 🎨 Clean, responsive UI/UX design
 
 ---
@@ -65,7 +70,7 @@ This project demonstrates:
 ## ✨ Key Features
 
 | Feature | Description |
-|---------|-------------|cat
+|---------|-------------|
 | 🔐 *JWT Authentication* | Secure login & registration with hashed passwords |
 | 💰 *Deposit System* | Real-time balance updates with transaction logging |
 | ⬇️ *Withdrawal System* | Balance validation with instant deduction |
@@ -98,8 +103,8 @@ This project demonstrates:
 - SQLAlchemy ORM
 
 ### Deployment
+- *Frontend:* Live on Netlify → [enterprise-financial-software.netlify.app](https://enterprise-financial-software.netlify.app)
 - *Backend:* Live on Render → [enterprise-financial-software-solution.onrender.com](https://enterprise-financial-software-solution.onrender.com)
-- *Frontend:* Deployment in progress (Netlify)
 
 ---
 
