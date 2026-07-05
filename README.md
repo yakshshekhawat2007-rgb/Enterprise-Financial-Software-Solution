@@ -1,43 +1,79 @@
+<div align="center">
+
 # 🏦 Enterprise Financial Software Solution
 
-> A production-ready enterprise banking 
-> platform built from scratch
+### A Production-Ready Full-Stack Banking Platform
 
-![Python](https://img.shields.io/badge/Python-3.10-blue)
-![Flask](https://img.shields.io/badge/Flask-3.1-green)
-![React](https://img.shields.io/badge/React-18-61DAFB)
-![SQLite](https://img.shields.io/badge/SQLite-Database-orange)
-![JWT](https://img.shields.io/badge/JWT-Secured-red)
 
----
 
-## 🌐 Live Demo
-🔗 [View Live App](https://enterprise-financial.vercel.app)
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+
+
+![Flask](https://img.shields.io/badge/Flask-3.1-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+
+
+
+![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
+
+
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+
+
+
+![JWT](https://img.shields.io/badge/JWT-Secured-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+
+
+
+![Render](https://img.shields.io/badge/Render-Live-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+
+
+
+<br/>
+
+🔗 *[Live Backend API](https://enterprise-financial-software-solution.onrender.com)* &nbsp;|&nbsp;
+📂 **[GitHub Repository](https://github.com/yakshshekhawat2007-rgb/Enterprise-Financial-Software-Solution)**
+
+<br/>
+
+> Built to simulate real-world enterprise banking systems with
+> modern architecture, secure authentication, and a professional UI
+
+</div>
 
 ---
 
 ## 📌 About The Project
 
-Enterprise Financial Software Solution is a 
-full-stack banking platform that simulates 
-real-world enterprise banking systems. Built 
-with Python Flask backend and React.js 
-frontend, it features secure JWT 
-authentication, real-time transaction 
-management, and a professional UI inspired 
-by enterprise-grade financial applications.
+*Enterprise Financial Software Solution* is a full-stack banking platform that simulates real-world enterprise banking systems. Built with a Python Flask REST API backend and a React.js frontend, it features secure JWT authentication, real-time transaction management, and a professional UI inspired by enterprise-grade financial applications.
+
+This project demonstrates:
+- 🏗️ Full-stack architecture and REST API design
+- 🔐 Secure authentication with JWT and password hashing
+- 💾 Relational database modeling with SQLAlchemy ORM
+- 🚀 Live cloud deployment on Render
+- 🎨 Clean, responsive UI/UX design
 
 ---
 
-## ✨ Features
+## ✨ Key Features
 
-- 🔐 Secure JWT Authentication
-- 💰 Real-time Deposit & Withdrawal
-- 🔄 Account-to-Account Transfers
-- 📊 Transaction History Dashboard
-- 💳 Visual Bank Card Interface
-- 📱 Fully Responsive Design
-- 🏛️ Enterprise-grade UI/UX
+| Feature | Description |
+|---------|-------------|
+| 🔐 *JWT Authentication* | Secure login & registration with hashed passwords |
+| 💰 *Deposit System* | Real-time balance updates with transaction logging |
+| ⬇️ *Withdrawal System* | Balance validation with instant deduction |
+| 🔄 *Fund Transfer* | Account-to-account transfers with validation |
+| 📊 *Dashboard Analytics* | Real-time stats with transaction history |
+| 💳 *Bank Card UI* | Visual bank card with account details |
+| 📱 *Responsive Design* | Works cleanly across all screen sizes |
+| 🔒 *Password Security* | Bcrypt hashing for password protection |
 
 ---
 
@@ -47,7 +83,7 @@ by enterprise-grade financial applications.
 - React.js 18
 - React Router DOM
 - Axios
-- Custom CSS Design System
+- Custom CSS design system
 
 ### Backend
 - Python 3.10
@@ -62,7 +98,8 @@ by enterprise-grade financial applications.
 - SQLAlchemy ORM
 
 ### Deployment
-- Backend → Render
+- *Backend:* Live on Render → [enterprise-financial-software-solution.onrender.com](https://enterprise-financial-software-solution.onrender.com)
+- *Frontend:* Deployment in progress (Netlify)
 
 ---
 
@@ -75,62 +112,10 @@ by enterprise-grade financial applications.
 
 ### Installation
 
-#### Backend:
-\`\`\`bash
+#### Backend
+```bash
 cd backend
 python3 -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
 python3 app.py
-\`\`\`
-
-#### Frontend:
-\`\`\`bash
-cd frontend
-npm install
-npm start
-\`\`\`
-
----
-
-## 📸 Screenshots
-
-### Login Page
-Professional split-screen login with
-enterprise branding and security stats
-
-### Dashboard
-Real-time balance display with
-transaction history and analytics
-
-### Transactions
-Deposit, withdraw and transfer
-with instant balance updates
-
----
-
-## 🔒 Security Features
-
-- JWT Token Authentication
-- Password Hashing with Bcrypt
-- CORS Protection
-- Secure API Endpoints
-
----
-
-## 👨‍💻 Developer
-
-**Yaksh Shekhawat**
-- GitHub: @yakshshekhawat
-- LinkedIn: linkedin.com/in/yakshshekhawat
-
----
-
-## 📄 License
-
-This project is for educational and 
-portfolio purposes.
-
----
-
-⭐ Star this repo if you found it helpful!
