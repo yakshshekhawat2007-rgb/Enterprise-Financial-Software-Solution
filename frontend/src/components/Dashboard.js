@@ -1,7 +1,7 @@
 import { useState, useEffect } from "react";
 import axios from "axios";
 
-const API = "https://enterprise-financial-backend.onrender.com";
+const API = "https://enterprise-financial-software-solution.onrender.com";
 
 function Dashboard() {
   const [account, setAccount] = useState(null);
