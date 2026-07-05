@@ -65,7 +65,7 @@ This project demonstrates:
 ## ✨ Key Features
 
 | Feature | Description |
-|---------|-------------|
+|---------|-------------|cat
 | 🔐 *JWT Authentication* | Secure login & registration with hashed passwords |
 | 💰 *Deposit System* | Real-time balance updates with transaction logging |
 | ⬇️ *Withdrawal System* | Balance validation with instant deduction |
